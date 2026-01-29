@@ -1,4 +1,3 @@
-# Ignore Python/Django stuff
 *.pyc
 __pycache__/
 db.sqlite3
