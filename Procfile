@@ -1,0 +1,1 @@
+web: gunicorn kkc_erp.wsgi --log-file -
